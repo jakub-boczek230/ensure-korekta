@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Ensure-Serwis Mateusz Radzikowski</title>
+  <desc id="desc">Logo firmy Ensure-Serwis z ikoną pojazdu serwisowego.</desc>
+  <rect width="900" height="240" fill="#ffffff"/>
+  <g transform="translate(24 17)">
+    <path d="M118 3c66 0 120 54 120 120 0 16-3 31-9 45v-57c0-51-41-92-92-92-24 0-46 9-62 24H24C46 18 80 3 118 3Z" fill="#28a9e1"/>
+    <path d="M17 62c0-10 8-18 18-18h106c10 0 18 8 18 18v26h34c6 0 12 3 16 8l38 50c3 4 4 8 4 13v27c0 10-8 18-18 18h-17a33 33 0 0 1-64 0H87a33 33 0 0 1-64 0H17c-10 0-18-8-18-18V62Z" fill="#07364a"/>
+    <path d="M38 77c0-5 4-9 9-9h72c5 0 9 4 9 9v51H38V77Z" fill="#ffffff"/>
+    <path d="M159 117h28c4 0 8 2 10 5l27 35v23h-48l-17-23v-40Z" fill="#ffffff"/>
+    <path d="M68 130l35-10 18-22 10 10-17 21 12 12 13-29 20 15-13 38h-35l-15 22-27-1 17-25-18-31Z" fill="#07364a"/>
+    <circle cx="55" cy="204" r="15" fill="#ffffff"/>
+    <circle cx="184" cy="204" r="15" fill="#ffffff"/>
+  </g>
+  <g transform="translate(300 72)">
+    <text x="0" y="58" fill="#07364a" font-family="Oswald, Impact, Arial Narrow, sans-serif" font-size="68" font-weight="700" letter-spacing="2">Ensure-Serwis</text>
+    <text x="4" y="104" fill="#39baf0" font-family="Oswald, Impact, Arial Narrow, sans-serif" font-size="32" font-weight="700">Mateusz Radzikowski</text>
+  </g>
+</svg>

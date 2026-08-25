@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 240" role="img" aria-labelledby="title">
+  <title id="title">Znak Ensure-Serwis</title>
+  <rect width="280" height="240" fill="#ffffff"/>
+  <path d="M141 9c66 0 120 54 120 120 0 16-3 31-9 45v-57c0-51-41-92-92-92-24 0-46 9-62 24H47C69 24 103 9 141 9Z" fill="#28a9e1"/>
+  <path d="M40 68c0-10 8-18 18-18h106c10 0 18 8 18 18v26h34c6 0 12 3 16 8l38 50c3 4 4 8 4 13v27c0 10-8 18-18 18h-17a33 33 0 0 1-64 0h-65a33 33 0 0 1-64 0h-6c-10 0-18-8-18-18V68Z" fill="#07364a"/>
+  <path d="M61 83c0-5 4-9 9-9h72c5 0 9 4 9 9v51H61V83Z" fill="#ffffff"/>
+  <path d="M182 123h28c4 0 8 2 10 5l27 35v23h-48l-17-23v-40Z" fill="#ffffff"/>
+  <path d="M91 136l35-10 18-22 10 10-17 21 12 12 13-29 20 15-13 38h-35l-15 22-27-1 17-25-18-31Z" fill="#07364a"/>
+  <circle cx="78" cy="210" r="15" fill="#ffffff"/>
+  <circle cx="207" cy="210" r="15" fill="#ffffff"/>
+</svg>
