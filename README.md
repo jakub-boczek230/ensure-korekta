@@ -51,6 +51,8 @@ Po zmianie plików w GitHub (Commit changes) Cloudflare automatycznie zbuduje no
 ## Uruchomienie lokalne (opcjonalne, wymaga Node.js)
 
 ```bash
+
+test
 npm install
 npm run dev      # podgląd na http://localhost:5173
 npm run build    # tworzy folder dist z gotową stroną
